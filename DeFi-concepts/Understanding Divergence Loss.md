@@ -1,6 +1,6 @@
 # Understanding Divergence Loss [a.k.a. Impermanent Loss (IL)]
 
-Beefy support often encounters questions on an important but confusing aspect of DeFi that arises from the innovation UniSwap introduced in 2018 of constant-product liquidity pools which an automated market-making (AMM) smart contract may use to provide decentralized asset swapping. This innovation has reigned since as a foundation of DeFi. By far most liquidity farms continue to use it today, like PancakeSwap.
+Beefy support often gets questions on an important but confusing aspect of DeFi that arises from the innovation UniSwap introduced in 2018 of constant-product liquidity pools which an automated market-making (AMM) smart contract may use to provide decentralized asset swapping. This innovation has reigned since as a foundation of DeFi. By far most liquidity farms continue to use it today, like PancakeSwap.
 
 The formula behind the basic liquidity pool is simple: an amount of an asset, A, times an _equivalently valued_ amount of an asset, B, equals a constant: 
 
